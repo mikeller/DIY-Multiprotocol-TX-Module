@@ -8,6 +8,8 @@
 
 #define CHECK_FOR_BOOTLOADER
 
+#define INVERT_TELEMETRY
+
 #define FORCE_GLOBAL_ID 0x95e6452e
 #define FORCE_CYRF_ID "\x95\xe6\x45\x2e\x9d\xfd"
 
